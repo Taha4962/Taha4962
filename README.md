@@ -145,14 +145,14 @@ https://ai-chat-application-ruddy.vercel.app/
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Taha4962&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.shion.dev/api?username=Taha4962&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false"
     alt="GitHub Stats"
   />
+</p>
 
+<p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha4962&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Taha4962&theme=github_dark&hide_border=true&layout=compact&include_all_commits=true&count_private=false"
     alt="Top Languages"
   />
 </p>
